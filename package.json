@@ -1,0 +1,24 @@
+{
+  "name": "mongodnode",
+  "version": "1.0.0",
+  "description": "mongodb-nodejs application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/mongoapp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hariomgola/MongoDnode.js.git"
+  },
+  "author": "hariom gola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hariomgola/MongoDnode.js/issues"
+  },
+  "homepage": "https://github.com/hariomgola/MongoDnode.js#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "mongodb": "^4.0.1"
+  }
+}
